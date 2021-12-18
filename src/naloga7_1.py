@@ -1,7 +1,7 @@
 import turtle
 import random
 
-dtekst = open("../projekt/datoteka.txt", "r")
+dtekst = open("../Zakljucni_projekt/datoteka.txt", "r")
 tekst = dtekst.read()
 spisek = tekst.split(' ')
 
